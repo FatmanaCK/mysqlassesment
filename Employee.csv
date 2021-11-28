@@ -1,0 +1,20 @@
+EmpId,FName,LName,DOB,Sex,Email,Sal,Mgrld,Deptld
+1,Abirami,Bob,1990-01-10,Female,EmaiAbirami@hcl.com,1000,2,10
+2,Bhuvi,Rob,1991-02-10,Female,Bhuvi@xyz,500,3,20
+3,"Chandrima "," Derek",1992-03-10," Female ",@abc.com,2000," 4 ",30
+4,Debasis,Pringle,1993-04-10,Male," Debasis@hcl.com",300,5,40
+5,Engima,Gefree,1995-05-10,Female,Engima@gmail.com,4500,6,10
+6,Funnel,Samas,1999-06-10,Male,Funnel@hcl.com,5500,7,20
+7,Gabriel,Lal,1997-07-10,Male,Gabriel@xyz.com,6500,8,30
+8,Hari,Fedrik,1998-08-10,Male,Hari@hcl.com,7900,9,40
+9,Inia,Gunjan,1999-09-10,Female,Inia@hcl.com,8900,10,10
+10,Jaisna,Singh,1999-09-10,Female,Jaisna@hcl.com,1000,10,20
+11,Yash,Bob,1990-01-10,Female," Abirami@hcl.com",1000,2,10
+12,Bharat,Rob,1991-02-10,Female,Bhuvi@xyz,500,2,20
+13,Krish,Derek,1992-03-10,Female,@abc.com,2000,3,30
+14,Karina,Pringle,1993-04-10,Male,Debasis@hcl.com,3000,3,40
+15,King,Gefree,1995-05-10,Female,Engima@gmail.com,4500,8,10
+16,George,Samas,1999-06-10,Male,Funnel@hcl.com,5500,8,20
+17,Patric,Lal,1997-07-10,Male,Gabriel@xyz.com,6500,9,30
+18,Peter,Fedrik,1998-08-10,Male,Hari@hcl.com,7900,9,40
+19,Mirande,Gunjan,1999-09-10,Female,Inia@hcl.com,8900,10,10
